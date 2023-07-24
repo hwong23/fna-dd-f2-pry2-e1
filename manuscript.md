@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-24" />
   <meta name="citation_publication_date" content="2023-07-24" />
   <meta property="article:published_time" content="2023-07-24" />
-  <meta name="dc.modified" content="2023-07-24T21:16:11+00:00" />
-  <meta property="article:modified_time" content="2023-07-24T21:16:11+00:00" />
+  <meta name="dc.modified" content="2023-07-24T22:43:42+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T22:43:42+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/b675901f872da7906c54c9f784aad4dd34a52b29/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/b675901f872da7906c54c9f784aad4dd34a52b29/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/b675901f872da7906c54c9f784aad4dd34a52b29/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/2cefe682708133bd5bfe89ad493c771961909647/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/2cefe682708133bd5bfe89ad493c771961909647/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/2cefe682708133bd5bfe89ad493c771961909647/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/b675901f872da7906c54c9f784aad4dd34a52b29/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/2cefe682708133bd5bfe89ad493c771961909647/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@b675901](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@2cefe68](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 24, 2023.
 </em></small>
 
-|    **Versión** del producto 1.b675901 de 24 Jul 2023
+|    **Versión** del producto 1.2cefe68 de 24 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.b675901 del 24 Jul 2023 |
+| Versión        | 1.2cefe68 del 24 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 > 
 >    24 Jul 2023
 >
->    **Versión** 1.b675901
+>    **Versión** 1.2cefe68
 
 <br>
 
@@ -223,7 +223,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.b675901** del 24 Jul 2023                       |
+| Versión        | **1.2cefe68** del 24 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -316,7 +316,7 @@ Un ITA, ítem de trabajo de arquitectura, puede ser cualquiera de los requerimie
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.b675901** del 24 Jul 2023                       |
+| Versión        | **1.2cefe68** del 24 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -343,7 +343,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.b675901** del 24 Jul 2023                       |
+| Versión        | **1.2cefe68** del 24 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -366,23 +366,23 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 > 
 >    24 Jul 2023
 >
->    **Versión** 1.b675901
+>    **Versión** 1.2cefe68
 
 <br>
 
 # Producto 12: PR12. 
-La arquitectura SOA de referencia SOA 2.0 del FNA, objeto de este proyecto, la forman las estructuras e integraciones de productos y servicios SOA. Este es el soporte de decisiones de la Vicepresidencia de tecnología del FNA, tanto de desarrollo, mejoras a las aplicaciones y herramientas de software del FNA, y para la adquisición y migración de tecnologías específicas.
+La arquitectura de referencia SOA 2.0 del FNA, objeto de este proyecto, la forman las estructuras e integraciones entre datos, productos y servicios SOA. Virtus de esto, es el soporte de decisiones de la Vicepresidencia de tecnología del FNA, tanto de desarrollo, mejoras a las aplicaciones y herramientas de software del FNA, y para la adquisición y migración de tecnologías específicas.
 
-Este producto define la línea base de la arquitectura de referencia 2.0 del FNA, necesaria para dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en este plano de referencia (como microservicios, REST, API, infraestructura Nube, etc.) y favoreciendo la adopción del estilo de arquitectura orientado a eventos para atender las funcionalidades y necesidades de negocio, que para este proyecto son principales la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA.
+Este producto del proyecto define la línea base de la arquitectura de referencia 2.0 del FNA, necesaria para dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en este plano de referencia (como microservicios, REST, API, infraestructura Nube, etc.) y favorece la adopción del _estilo de arquitectura orientado a eventos_ para atender las funcionalidades y necesidades de negocio, que para este proyecto son prioridad la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA.
 
 <br>
 
-# Justificación
+## Justificación
 La Arquitectura de Referencia SOA 2.0 del Fondo Nacional del Ahorro (PR12), que incorpora las problemáticas de gobierno SOA a partir de las que se plantea este producto, busca la prevalencia, el fortalecimiento y la optimización de las arquitecturas de servicios SOA relacionadas con las apicaciones del FNA, y en concosrdancia con los análisis realizados en la Fase I, E-Service (2022). Esta permitirá, una vez modelada la arquitectura de objeto de referencia de este proyecto, realizando las operaciones requeridas por el proyecto Gobierno SOA del FNA (PRY01, E-Service Fase II) a los segmentos y componentes base, principios, metodologías, estándares, lineamientos y tecnologías.
 
 La Arquitecturas de referencias 2.0 es la responsable de definir y evolucionar las arquitecturas de solución tecnológica del FNA, y su propósito es orientar el diseño de las soluciones delimitando e introduciendo restricciones positivas en cuanto a parámetros, patrones y atributos de calidad. Además, es un instrumento de control para hacer cumplir los principios de diseño de servicios SOA del FNA y del Manual de Gobierno.
 
-# Contenidos
+## Contenidos
 1. Diseño y representación de la Arquitectura de Referencia 2.0 del FNA
 2. Consideraciones para implementar la arquitectura de referencia
 3. Vistas lógicas y conceptuales de los sistemas de información
@@ -390,7 +390,7 @@ La Arquitecturas de referencias 2.0 es la responsable de definir y evolucionar l
 
 <br>
 
-# Criterios de Aceptación
+## Criterios de Aceptación
 * Vistas lógicas y conceptuales de los sistemas de información
 * Validación de la Arquitectura de Referencia 2.0 del FNA [- Plantilla "Gestión y Gobierno Arquitectura Empresarial (Mega Hopex) MIPG, MRAE, Marco Transformación Digital, TOGAF"]
 
@@ -402,6 +402,156 @@ La Arquitecturas de referencias 2.0 es la responsable de definir y evolucionar l
 _Fuente: Elaboración propia._
 
 <br>
+
+
+<div style="page-break-before: always;"></div>
+\newpage
+
+| Tema           | : **Flujo de trabajo del mantenimiento de la arquitectura de referencia** |
+|----------------|----------------------------------------------------------------------|
+| Palabras clave | SOA, Arquitectura de referencia, características, dominios, servivios, aplicaciones, datos, |
+| Autor          |                                                              |
+| Fuente         |                                                              |
+| Versión        | **1.2cefe68** del 24 Jul 2023                         |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+# Diseño y Representación de las Arquitecturas de Referencia 2.0 del FNA
+Partimos de la representación de la vista general actual de la arquitecturas del FNA y que implica a las problemáticas diagnósticadas en Fase I @eservices1-22. Sobre este plano realizaremos luego las propuestas de nuevas arquitecturas respecto a la actual dirigidas a enfrentar dichas problemáticas allí planteadas, y que se resumen en las siguientes.
+
+1. Dependencia de proveedor (OBJ1)
+1. Fortaleza SOA de las aplicaciones (OBJ2)
+1. Tiempo de mercado (OBJ3)
+
+_Fuente: E-Service, Fase I (2022)._
+
+## Dominio de Servicios y Aplicaciones FNA
+### Plano General Actual 
+El propósito de traer como referencia el plano actual de arquitectura del FNA es recordar dicho esquema  para poderlo comparar con la arquitectura propuesta.
+
+![Fondo Nacional del Ahorro - Vista general de arquitectura actual](images/arqimage1.png){#fig: width="12in" height="7in"}
+
+<br>
+
+### Plano General Objetivo
+Presentamos la arquitectura de referencia propuesta dividida en dos niveles de detalle.
+
+#### Nivel de detalle 1
+
+![Fondo Nacional del Ahorro - Vista general de arquitectura de referencia. N1](images/arqimage1.1.png){#fig: width="13in" height="7in"}
+
+<br>
+
+#### Nivel de detalle 2
+
+![Fondo Nacional del Ahorro - Vista general de arquitectura de referencia. N1](images/arqimage2.png){#fig: width="13in" height="7in"}
+
+<br>
+
+## Dominio de Datos FNA
+Para la arquitectura SOA objetivo se propone un enfoque conocido como malla de datos. Este paradigma permite pensar en los datos como productos: disponibles y gestionados para su consumo como un producto. La malla de datos introduce cambios organizativos y de procesos que el Fondo Nacional necesitará para gestionar los datos como un activo de capital tangible del negocio.
+
+Una malla de datos tiene como principal objetivo que estos sean más accesibles y estén disponibles para los usuarios, conectando directamente a propietarios, los productores y los consumidores de datos. La malla de datos trae beneficios como la mejora de los resultados empresariales de las soluciones centradas en los datos, y también impulsa la adopción de arquitecturas de datos modernas.
+
+### Pilares de la Malla de Datos (data mesh)
+![Malla de datos para el FNA](images/image1.png){#fig: width="6in" height="3in"}
+
+### Plano de Datos Objetivo (data mesh)
+El desarrollo de la arquitectura candidata de información integrará los marcos de referencia TOGAF, el marco de referencia DAMA y las disposiciones de la política de gobierno digital, en particular las
+especificadas por el Marco de Referencia de Arquitectura Empresarial para entidades del Estado Colombiano - MRAE para orientar la evaluación del estado actual y la definición del estado deseado integrando
+capacidades para el gobierno de datos, arquitectura de datos, diseño y modelamiento de datos, operaciones y almacenamiento de datos, seguridad de datos, interoperabilidad e integración de datos, gestión documental y contenido, datos maestros y de referencia, inteligencia de negocios y analítica, metadatos y calidad de datos.
+
+![Plano de Datos Objetivo del FNA](images/image2.png){#fig: width="6in" height="3.5in"}
+
+La Ilustración a continuación muestra los marcos de referencia aplicables al dominio de Información:
+
+![Marcos de referencia aplicables a la arquitectura de información](images/datimage3.png){#fig: width="6.1375in" height="2.410416666666667in"}
+
+
+### Características Principales de la Arquitectura de Datos 2.0 del FNA
+**Propiedad impulsada por el dominio**: el primer principio de un data
+mesh es transferir el poder de los datos y su propiedad a las manos de los equipos de dominio del FNA, es decir a las vicepresidencias y sus departamentos y unidades de negocio. Ellos serán los dueños de los datos de un extremo a otro, y podrán asegurarse de tener desde las fuentes correctas hasta los procesamientos necesarios y la entrega de los datos para que otros equipos de dominio los aprovechen como productos.
+
+**Datos como producto:** los equipos de dominio son responsables de los datos y también de los productos de datos resultantes. El objetivo es lograr que cada "producto de datos" sea descubierto y utilizable por los consumidores y otros equipos de dominio, y el propietario del dominio es responsable de mantener y actualizar (o desaprobar) estos productos para garantizar la calidad y la precisión.
+
+**Infraestructura de autoservicio**: autoservicio es la tendencia a dejar las tecnologías complejas y las
+habilidades de nicho. El Data mesh se basa, por principio, en una gestión de datos mediante una plataforma común y un conjunto de herramientas que cualquier equipo de dominio pueda aprovechar.
+
+**Gobernanza federada**: si de verdad debemos eliminar controles de acceso necesitamos un equilibrio entre las políticas y controles de gobernanza global y la posibilidad de dominio y creación de productos. Esto es lo que llamamos gobernanza federada, y en la práctica es fundamental para garantizar la privacidad, el cumplimiento y la posibilidad de escalar.
+
+## Dominio de Infraestructura FNA
+Para la arquitectura SOA objetivo se propone un enfoque de computación en la nube donde se hace uso de componentes IaaS y PaaS. Dentro de la oferta actual de componentes se pueden encontrar soluciones que permiten garantizar escalabilidad, disponibilidad, cumplimiento regulatorio y menores tiempos de salida al mercado.
+
+<br>
+
+### Arquitectura Objetivo
+![](./images/infrimage1.png){width="6.1in" height="3.5in"}
+
+<br>
+
+### Principales Características
+
+**Arquitectura sin servidor para la interfaz web**: Distribución de contenidos con baja latencia y altas velocidades de transferencia usando CDN hospedando el contenido estático de la aplicación en un servicio de almacenamiento de objetos, eliminando la necesidad de utilizar servidores en esta capa.
+
+**Enfoque de microservicios**: Permite obetener capacidad de cómputo particular según sea requerido para soportar la carga. 
+
+**Exposición de la funcionalidad de negocio a través de API Gateway**: Entrega las solicitudes a los microservicios, habilitando la gestión de API para establecer modelos de Calidad en el Servicio (QoS) y controlando la autenticación y autorización.
+
+**Orquestación de contenedores**: Los administradores de Kubernetes permiten automatizar tareas clave como los parches, el aprovisionamiento de nodos y las actualizaciones. El gestior de Kubernetes por lo general permite  gestionar dinámicamente la creación o terminación de nodos y contenedores en base a la demanda.
+
+**Service mesh**: Permite distribuir la carga proveniente de API Gateway, obteniendo mayor visibilidad y controles uniformes del tráfico de red.
+
+**Servicios administrados**: Se aprovechan para elementos tales como la gestión de cache y bases de datos (relaciones y no relacionales). Con esto se evitan  tareas administrativas, como el aprovisionamiento de hardware, parches de software, configuración, ajustes,recuperación de fallos y backups.
+
+**Integración de sistemas**: A través de un enlace Virtual Private Network (VPN) La funcionalidad se expone a través de el Bus de Servicios, habilitando un modelo híbrido de aplicaciones nativas de nube y al mismo tiempo de arquitectura orientada a servicios (SOA).
+
+
+
+
+
+
+12b.consideraciones.md
+<div style="page-break-before: always;"></div>
+\newpage
+
+| Tema           | : **Consideraciones para implementar la arquitectura de referencia** |
+|----------------|----------------------------------------------------------------------|
+| Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
+| Autor          |                                                              |
+| Fuente         |                                                              |
+| Versión        | **1.2cefe68** del 24 Jul 2023                         |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+# Consideraciones para Implementar las Arquitecturas de Referencia del FNA
+Partimos de la representación de la vista general de arquitectura actual del FNA, que desembocaron en las problemáticas diagnósticadas en Fase I (@eservices1-22) sobre la que realizaremos luego las propuestas de nuevas arquitecturas que 
+
+Este documento presenta la visión general de la arquitectura de referencia del FNA. Contiene propuestas a futuro sobre los cambios y adiciones sugeridas con respecto a la arquitectura de referencia actual.
+
+
+
+12c.vistas.md
+<div style="page-break-before: always;"></div>
+\newpage
+
+| Tema           | : **Flujo de trabajo del mantenimiento de la arquitectura de referencia** |
+|----------------|----------------------------------------------------------------------|
+| Palabras clave | SOA, Arquitectura de referencia, características,                     |
+| Autor          |                                                              |
+| Fuente         |                                                              |
+| Versión        | **1.2cefe68** del 24 Jul 2023                       |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+# Diseño y Representación de las Arquitecturas de Referencia 2.0 del FNA
+Partimos de la representación de la vista general de arquitectura actual del FNA, que desembocaron en las problemáticas diagnósticadas en Fase I (@eservices1-22) sobre la que realizaremos luego las propuestas de nuevas arquitecturas que 
+
+Este documento presenta la visión general de la arquitectura de referencia del FNA. Contiene propuestas a futuro sobre los cambios y adiciones sugeridas con respecto a la arquitectura de referencia actual.
+
+
 
 
 # Referencias {.page_break_before}
