@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-27" />
   <meta name="citation_publication_date" content="2023-07-27" />
   <meta property="article:published_time" content="2023-07-27" />
-  <meta name="dc.modified" content="2023-07-27T13:03:19+00:00" />
-  <meta property="article:modified_time" content="2023-07-27T13:03:19+00:00" />
+  <meta name="dc.modified" content="2023-07-27T14:17:54+00:00" />
+  <meta property="article:modified_time" content="2023-07-27T14:17:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/c538648e1530ca11f897aeb1cbec418f13ed3701/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/c538648e1530ca11f897aeb1cbec418f13ed3701/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/c538648e1530ca11f897aeb1cbec418f13ed3701/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fc6ac1c272dbf2037e7cdb4dd387824406b9b10a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fc6ac1c272dbf2037e7cdb4dd387824406b9b10a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fc6ac1c272dbf2037e7cdb4dd387824406b9b10a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/c538648e1530ca11f897aeb1cbec418f13ed3701/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fc6ac1c272dbf2037e7cdb4dd387824406b9b10a/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@c538648](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@fc6ac1c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 27, 2023.
 </em></small>
 
-|    **Versión** del producto 1.c538648 de 27 Jul 2023
+|    **Versión** del producto 1.fc6ac1c de 27 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.c538648 del 27 Jul 2023 |
+| Versión        | 1.fc6ac1c del 27 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 > 
 >    27 Jul 2023
 >
->    **Versión** 1.c538648
+>    **Versión** 1.fc6ac1c
 
 <br>
 
@@ -223,7 +223,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.c538648** del 27 Jul 2023                       |
+| Versión        | **1.fc6ac1c** del 27 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -329,7 +329,8 @@ Proveemos algunos ejemplos de métricas que se correlacionen con los objetivos d
 |----------------|----------------------------------|---------------------------|
 | Tamaño de la arquitectura | Cantidad de componentes y relaciones | La cantidad de componentes y de relaciones puede dar una idea de la complejidad, aunque no siempre es una implica a esta. |
 | Productividad  | Velocidad de transición | La velocidad por sí sola no imcorpora a la complejidad. Esta métrica debe ser interpretada en conjunto con otras que sí traten a la compledidad para contar con una interpretación ponderada de la productividad. |
-| Eficiencia | Costo por transición | Puede haber problemas de subjetividad cuando la dificultad para contabilizar los costos, o sopesarlos contra los beneficios, es alta. |
+| Eficiencia     | Costo por transición | Puede haber problemas de subjetividad cuando la dificultad para contabilizar los costos, o sopesarlos contra los beneficios, es alta. |
+| Calidad de transición | Densidad de desviaciones | Puede que sea complejo determinar cómo encontrar estas desviaciones del diseño y la implementación y la frecuencia con la que se los busca. Según la manera como se concrete, esta métrica puede afectar a la de eficiencia. |
 
 Table: Ejemnplo de métricas para el trabajo de arquitectura: transición de versión y transición de diseños. {#tbl:metricas-id}
 
@@ -344,7 +345,7 @@ Table: Ejemnplo de métricas para el trabajo de arquitectura: transición de ver
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.c538648** del 27 Jul 2023                       |
+| Versión        | **1.fc6ac1c** del 27 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -371,7 +372,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.c538648** del 27 Jul 2023                       |
+| Versión        | **1.fc6ac1c** del 27 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -420,7 +421,7 @@ Table: Roles y Responsabilidades del (FLARQ03) Flujo de Trabajo Creación y Mant
 > 
 >    27 Jul 2023
 >
->    **Versión** 1.c538648
+>    **Versión** 1.fc6ac1c
 
 <br>
 
@@ -466,7 +467,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.c538648** del 27 Jul 2023                         |
+| Versión        | **1.fc6ac1c** del 27 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -577,7 +578,7 @@ A continuación resaltamos algunas características de interés respecto de los 
 | Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.c538648** del 27 Jul 2023                         |
+| Versión        | **1.fc6ac1c** del 27 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -597,7 +598,7 @@ Este documento presenta la visión general de la arquitectura de referencia del 
 | Palabras clave | SOA, Arquitectura de referencia, características,                     |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.c538648** del 27 Jul 2023                       |
+| Versión        | **1.fc6ac1c** del 27 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
