@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-26'
+date-meta: '2023-07-27'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-07-26" />
-  <meta name="citation_publication_date" content="2023-07-26" />
-  <meta property="article:published_time" content="2023-07-26" />
-  <meta name="dc.modified" content="2023-07-26T21:01:03+00:00" />
-  <meta property="article:modified_time" content="2023-07-26T21:01:03+00:00" />
+  <meta name="dc.date" content="2023-07-27" />
+  <meta name="citation_publication_date" content="2023-07-27" />
+  <meta property="article:published_time" content="2023-07-27" />
+  <meta name="dc.modified" content="2023-07-27T11:33:17+00:00" />
+  <meta property="article:modified_time" content="2023-07-27T11:33:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/844c9c138262c59ec18a3ec89d8d8803f9e96792/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/844c9c138262c59ec18a3ec89d8d8803f9e96792/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/844c9c138262c59ec18a3ec89d8d8803f9e96792/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/a8538941c8925fdf36c797dd4cab51a7dbe40797/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/a8538941c8925fdf36c797dd4cab51a7dbe40797/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/a8538941c8925fdf36c797dd4cab51a7dbe40797/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/844c9c138262c59ec18a3ec89d8d8803f9e96792/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/a8538941c8925fdf36c797dd4cab51a7dbe40797/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@844c9c1](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 26, 2023.
+[Sharepoint STEF@a853894](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 27, 2023.
 </em></small>
 
-|    **Versión** del producto 1.844c9c1 de 26 Jul 2023
+|    **Versión** del producto 1.a853894 de 27 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.844c9c1 del 26 Jul 2023 |
+| Versión        | 1.a853894 del 27 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -178,9 +178,9 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 > 
 >    FNA, Stefanini
 > 
->    26 Jul 2023
+>    27 Jul 2023
 >
->    **Versión** 1.844c9c1
+>    **Versión** 1.a853894
 
 <br>
 
@@ -223,7 +223,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.844c9c1** del 26 Jul 2023                       |
+| Versión        | **1.a853894** del 27 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -316,7 +316,7 @@ Un ITA (ítem de trabajo de arquitectura) puede ser cualquiera de los requerimie
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.844c9c1** del 26 Jul 2023                       |
+| Versión        | **1.a853894** del 27 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -343,54 +343,38 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.844c9c1** del 26 Jul 2023                       |
+| Versión        | **1.a853894** del 27 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
 # Matriz de Responsabilidades para el Mantenimiento de las Arquitecturas de Referencia del FNA
-Los roles y responsabilidades de esta sección siguen lo descrito por el flujo de trabajo de mantenimiento de arquitecturas de referencia del FNA. Esto es, 
+Los roles y responsabilidades de esta sección siguen lo descrito por el flujo de trabajo FLARQ03 del FNA, [Flujo de Trabajo del FNA para la Creación y Mantenimiento de la Arquitectura de Referencia]. Esto es, esta matriz de roles sigue la siguiente estructura
+
+1. Especificaciones de arquitectura (referencia)
+1. Ingeniería (diseños de solución)
+1. Verificación especificación- diseño
 
 <br>
 
 # Roles y Responsabilidades de la Oficina de Arquitectura
 ## Responsabilidades por Rol
-Partimos del modelo de gobierno, versión 0.5.
+Partimos de la estructura de la matriz indicada arriba.
 
 | Nombre                                         | Tipo                      | Responsabilidades |
 |:-----------------------------------------------|:--------------------------|:---------------  |
-| **Actores Áreas FNA**                          | business-actor            | Solicitar y revisar contenidos emitidos por la oficina de arquitectura FNA |
-| **Arquitecto SOA FNA**                         | business-actor            | - Ejecutar el flujo de trabajo de la oficina de arquitectura  |
-|||                                                                            - Evaluar el apego al flujo de trabajo por parte de los arquitectos involucrados con la oficina |
-|||                                                                            - Realizar las actividades de análisis exigidas por el gobierno SOA (ver tabla @tabl:accexigidos-id) |
-| **Arquitecto FNA**                             | business-actor            | - Ejecutar el flujo de trabajo de la oficina de arquitectura  |
-|||                                                                            - Elaborar los productos de trabajo exigidos por el gobierno SOA del FNA (ver tabla @tbl:ptexigidos-id) |
-|||                                                                            - Realizar las actividades de análisis exigidas por el gobierno SOA (ver tabla @tabl:accexigidos-id) |
-| **Arquitecto Solución**                        | business-actor            | - Implementar los diseños provistos por la oficina de arquitectura del FNA  |
-|||                                                                          | - Contribuir con el nivel de detalle de los modelos de arquitectura de la oficina |
-| **GOB01. Colaboración entre Oficinas**         | business-collaboration    | Elaborar los registros de colaboración entre oficinas exigidos por el gobierno  |
+| **Actores Áreas FNA**                          | business-actor            | Identifica brechas y determina necesidades y señalamientos a las arquitecuras actuales  |
+| **Arquitecto SOA FNA**                         | business-actor            | Inicia el flujo de trabajo de mantenimiento de las arquitecturas. Realizar las especificaciones de primer nivel (nivel de detalle 100) |
+|||                                                                            - **Verificación**: elaborar los registros de colaboración entre arquitectura e ingeniería |
+| **Arquitecto Solución**                        | business-actor            | Implementar los diseños provistos por la oficina de arquitectura del FNA apegadas a tecnologeias específicas |
+|||                                                                            - Contribuir con el nivel de detalle de los modelos provistos por el Arquitecto SOA FNA (nivel 300|
+|||                                                                            - Realizar las actividades de análisis exigidas por el gobierno SOA |
+|||                                                                            - **Verificación**: elaborar los registros de colaboración entre arquitectura e ingeniería |
+| **Ingeniería FNA**                             | business-actor            | Implementa los cambios y transiciones de las arquitecturas de referencia FNA |
+|||                                                                            - Elaborar los artefactos ejecutables exigidos por la transición |
+|||                                                                            - Contribuir con el nivel de detalle de los modelos provistos por el Arquitecto SOA FNA (nivel 500) |
 
-Table: Roles y Responsabilidades de la Oficina de Arquitectura FNA exigidos por el Gobierno SOA. {#tbl:rolresp-id}
-
-<br>
-
-| Productos de trabajo exigidos    | Tipo             |
-|----------------------------------|------------------|
-| **Caso Uso de Negocio**          | business-object  |
-| **Inversión TI**                 | business-object  |
-| **Requerimiento de Arquitectura**| business-object  |
-
-Table: Productos de trabajo exigidos por el Gobierno SOA. {#tbl:ptexigidos-id}
-
-
-| Actividades de análisis exigidas | Tipo             |
-|----------------------------------|------------------|
-| **ALS01. Complejidad**           | assessment       |
-| **ALS02. Impacto**               | assessment       |
-| **ALS03. Costo / Beneficio**     | assessment       |
-| **ALS04. Específicos***          | assessment       |
-
-Table: Tareas de análisis exigidas a los arquitectos de la oficina (Gobierno SOA). {#tbl:accexigidos-id}
+Table: Roles y Responsabilidades del (FLARQ03) Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA ejecutada por la Oficina de Arquitectura FNA exigidos por el Gobierno SOA. {#tbl:rolresp-id}
 
 <br>
 
@@ -406,9 +390,9 @@ Table: Tareas de análisis exigidas a los arquitectos de la oficina (Gobierno SO
 > 
 >    FNA, Stefanini
 > 
->    26 Jul 2023
+>    27 Jul 2023
 >
->    **Versión** 1.844c9c1
+>    **Versión** 1.a853894
 
 <br>
 
@@ -454,7 +438,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.844c9c1** del 26 Jul 2023                         |
+| Versión        | **1.a853894** del 27 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -562,7 +546,7 @@ Para la arquitectura SOA objetivo se propone un enfoque de computación en la nu
 | Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.844c9c1** del 26 Jul 2023                         |
+| Versión        | **1.a853894** del 27 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -583,7 +567,7 @@ Este documento presenta la visión general de la arquitectura de referencia del 
 | Palabras clave | SOA, Arquitectura de referencia, características,                     |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.844c9c1** del 26 Jul 2023                       |
+| Versión        | **1.a853894** del 27 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
