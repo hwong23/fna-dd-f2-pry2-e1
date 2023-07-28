@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-28" />
   <meta name="citation_publication_date" content="2023-07-28" />
   <meta property="article:published_time" content="2023-07-28" />
-  <meta name="dc.modified" content="2023-07-28T19:31:31+00:00" />
-  <meta property="article:modified_time" content="2023-07-28T19:31:31+00:00" />
+  <meta name="dc.modified" content="2023-07-28T19:41:28+00:00" />
+  <meta property="article:modified_time" content="2023-07-28T19:41:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/0c85d272661e1d0997ed65282fcde36f924aa2fb/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/0c85d272661e1d0997ed65282fcde36f924aa2fb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/0c85d272661e1d0997ed65282fcde36f924aa2fb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/e3d8524dd9d52c358de673b9dea359d85f657a08/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/e3d8524dd9d52c358de673b9dea359d85f657a08/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/e3d8524dd9d52c358de673b9dea359d85f657a08/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/0c85d272661e1d0997ed65282fcde36f924aa2fb/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/e3d8524dd9d52c358de673b9dea359d85f657a08/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@0c85d27](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@e3d8524](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 28, 2023.
 </em></small>
 
-|    **Versión** del producto 1.0c85d27 de 28 Jul 2023
+|    **Versión** del producto 1.e3d8524 de 28 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 1, PR11. Detalle de los recursos, herramien
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.0c85d27 del 28 Jul 2023 |
+| Versión        | 1.e3d8524 del 28 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -184,7 +184,7 @@ prnombre: "Detalle de los recursos, herramientas, roles, responsabilidades y par
 > 
 >    28 Jul 2023
 >
->    **Versión** 1.0c85d27
+>    **Versión** 1.e3d8524
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.0c85d27** del 28 Jul 2023                       |
+| Versión        | **1.e3d8524** del 28 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -349,7 +349,7 @@ Table: Ejemplo de métricas para el trabajo de arquitectura: transición de vers
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.0c85d27** del 28 Jul 2023                       |
+| Versión        | **1.e3d8524** del 28 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -376,7 +376,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.0c85d27** del 28 Jul 2023                       |
+| Versión        | **1.e3d8524** del 28 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -440,7 +440,7 @@ Resaltamos de las responsabilidades descritas arriba en la tabla que la de _Veri
 > 
 >    28 Jul 2023
 >
->    **Versión** 1.0c85d27
+>    **Versión** 1.e3d8524
 
 <br>
 
@@ -486,7 +486,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.0c85d27** del 28 Jul 2023                         |
+| Versión        | **1.e3d8524** del 28 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -603,7 +603,7 @@ A continuación resaltamos algunas características de interés respecto de los 
 | Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.0c85d27** del 28 Jul 2023                         |
+| Versión        | **1.e3d8524** del 28 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -619,13 +619,18 @@ El principal diseño del que debe alejarse el FNA es todo aquel el que aumente l
 En el diagrama siguiente presentamos esta consideración de forma visual en la que queremos se aprecie el problema de tender relaciones directas desde los procesos de negocio a un proveedor tecnológico, COBIS.
 
 
-![Consideraciones de Diseño FNA. Acomplamiento y Dependencia al proveedor.](images/arqrefnegativa.png){#fig: width="6in" height="3in"}
+![Consideraciones de Diseño FNA. Acomplamiento y Dependencia al proveedor.](images/arqrefnegativa1.png){#fig: width="6in" height="3in"}
 
 En la imagen: las relaciones directas que los procesos de negocio puedan tener con un proveedor son la causa de dos problemas: el acomplamiento al proveedor, lo que a su vez contribuye al problema de diseño que hemos llamado dependencia al proveedor.
 
-Este mismo problema se presenta de forma indirecta cuando existe un intermediario entre las partes. Siguiendo con el ejemplo ilustrado arriba, cuando existe un intermediario entre los procesos de negocio y el proveedor, sea un bus empresarial, un integrador, proxie, o algún intermediario cualquiera de sus formas, existe el mismo problema que denunciamos en este diseño centrado en el proveedor. La presencia de un intermediario no elimina este problema, solo lo esconde, y por tanto, lo acrecienta.
+Este mismo problema se presenta de forma indirecta cuando existe un intermediario entre las partes. Siguiendo con el ejemplo ilustrado arriba, un intermediario entre los procesos de negocio y el proveedor, sea un bus empresarial, un integrador, proxie, o algún intermediario cualquiera de sus formas, comporta el mismo problema que denunciamos en este diseño centrado en el proveedor. La presencia de un intermediario no elimina este problema, solo lo esconde, y por tanto, lo acrecienta.
 
     Nota: este mismo problema se presenta de forma indirecta cuando existe un intermediario entre las partes. La presencia de un intermediario no elimina este problema, solo lo esconde, y por tanto, lo acrecienta.
+
+## Diseños de Capas Generales
+El diseño de capas, si bien es uno de con los que inicia una arquitectura, no representa en realidad a ninguna arquitectura. Es apenas una forma de organización de las partes de un sistema de información, pero no una arquitectura como la conocemos en este contexto. 
+
+![Consideraciones de Diseño FNA. Acomplamiento y Dependencia al proveedor.](images/arqrefnegativa2.png){#fig: width="6in" height="3in"}
 
 <br>
 
