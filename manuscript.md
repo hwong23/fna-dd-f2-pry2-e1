@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-28" />
   <meta name="citation_publication_date" content="2023-07-28" />
   <meta property="article:published_time" content="2023-07-28" />
-  <meta name="dc.modified" content="2023-07-28T18:47:47+00:00" />
-  <meta property="article:modified_time" content="2023-07-28T18:47:47+00:00" />
+  <meta name="dc.modified" content="2023-07-28T18:50:37+00:00" />
+  <meta property="article:modified_time" content="2023-07-28T18:50:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fb6b3e95b4c74e0bcb756cd5e59b2d5b902d30eb/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fb6b3e95b4c74e0bcb756cd5e59b2d5b902d30eb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fb6b3e95b4c74e0bcb756cd5e59b2d5b902d30eb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/6c9d0eee91df187663783da60725b5f0a2a1a2c5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/6c9d0eee91df187663783da60725b5f0a2a1a2c5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/6c9d0eee91df187663783da60725b5f0a2a1a2c5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fb6b3e95b4c74e0bcb756cd5e59b2d5b902d30eb/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/6c9d0eee91df187663783da60725b5f0a2a1a2c5/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@fb6b3e9](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@6c9d0ee](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 28, 2023.
 </em></small>
 
-|    **Versión** del producto 1.fb6b3e9 de 28 Jul 2023
+|    **Versión** del producto 1.6c9d0ee de 28 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 1, PR11. Detalle de los recursos, herramien
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.fb6b3e9 del 28 Jul 2023 |
+| Versión        | 1.6c9d0ee del 28 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -184,7 +184,7 @@ prnombre: "Detalle de los recursos, herramientas, roles, responsabilidades y par
 > 
 >    28 Jul 2023
 >
->    **Versión** 1.fb6b3e9
+>    **Versión** 1.6c9d0ee
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.fb6b3e9** del 28 Jul 2023                       |
+| Versión        | **1.6c9d0ee** del 28 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -349,7 +349,7 @@ Table: Ejemplo de métricas para el trabajo de arquitectura: transición de vers
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.fb6b3e9** del 28 Jul 2023                       |
+| Versión        | **1.6c9d0ee** del 28 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -376,7 +376,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.fb6b3e9** del 28 Jul 2023                       |
+| Versión        | **1.6c9d0ee** del 28 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -440,7 +440,7 @@ Resaltamos de las responsabilidades descritas arriba en la tabla que la de _Veri
 > 
 >    28 Jul 2023
 >
->    **Versión** 1.fb6b3e9
+>    **Versión** 1.6c9d0ee
 
 <br>
 
@@ -486,7 +486,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.fb6b3e9** del 28 Jul 2023                         |
+| Versión        | **1.6c9d0ee** del 28 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -531,6 +531,7 @@ En este nivel de detalle realizamos la división interna de las zonas de arquite
 
 Esta división es más táctica que la división de zonas presentada antes. Este vista de áreas de servicios le comunica al equipo de la oficina de arquitectura cuáles serán los dominios enfocados que debe cuidar, los equipos de trabajo que debe considerar, los componentes que debe procurar y el rol de estos, y por supuesto, la comunicación que deben tener estos respecto de sus segmentos contenedores.
 
+<br>
 
 ## Dominio de Datos FNA
 Para la arquitectura SOA objetivo se propone un enfoque conocido como malla de datos. Este paradigma permite pensar en los datos como productos: disponibles y gestionados para su consumo como un producto. La malla de datos introduce cambios organizativos y de procesos que el Fondo Nacional necesitará para gestionar los datos como un activo de capital tangible del negocio.
@@ -563,8 +564,10 @@ habilidades de nicho. El Data mesh se basa, por principio, en una gestión de da
 
 **Gobernanza federada**: si de verdad debemos eliminar controles de acceso necesitamos un equilibrio entre las políticas y controles de gobernanza global y la posibilidad de dominio y creación de productos. Esto es lo que llamamos gobernanza federada, y en la práctica es fundamental para garantizar la privacidad, el cumplimiento y la posibilidad de escalar.
 
+<br>
+
 ## Dominio de Infraestructura FNA
-Para la arquitectura SOA objetivo se propone un enfoque de computación en la nube donde se hace uso de componentes IaaS y PaaS. Dentro de la oferta actual de componentes se pueden encontrar soluciones que permiten garantizar escalabilidad, disponibilidad, cumplimiento regulatorio y menores tiempos de salida al mercado.
+Para la arquitectura SOA objetivo se propone un enfoque de computación en la nube donde se hace uso de componentes IaaS y PaaS, de infraestructura y pltaforma en la nube. Dentro de la oferta actual de componentes se pueden encontrar soluciones que permiten garantizar escalabilidad, disponibilidad, cumplimiento regulatorio y menores tiempos de salida al mercado.
 
 ### Arquitectura Objetivo
 En respuesta a las necesidades determinadas en los diagnósticos de Fase I, proponemos una base de infraestructura futura, pero compatible con el contexto actual del FNA. Por tanto, esta propuesta se centra en el estilo de arquitectura SOA mejorado con la malla de servicios y microservicios elásticos (auto escalado).
@@ -574,7 +577,6 @@ En respuesta a las necesidades determinadas en los diagnósticos de Fase I, prop
 A continuación resaltamos algunas características de interés respecto de los problemas que esta arquitectura soluciona.
 
 ### Principales Características
-
 **Arquitectura sin servidor para la interfaz web**: Distribución de contenidos con baja latencia y altas velocidades de transferencia usando CDN hospedando el contenido estático de la aplicación en un servicio de almacenamiento de objetos, eliminando la necesidad de utilizar servidores en esta capa.
 
 **Enfoque de microservicios**: Permite obtener capacidad de cómputo particular según sea requerido para soportar la carga. 
@@ -589,8 +591,7 @@ A continuación resaltamos algunas características de interés respecto de los 
 
 **Integración de sistemas**: A través de un enlace Virtual Private Network (VPN) La funcionalidad se expone a través del Bus de Servicios, habilitando un modelo híbrido de aplicaciones nativas de nube y al mismo tiempo de arquitectura orientada a servicios (SOA).
 
-
-
+<br>
 
 
 
