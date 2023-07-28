@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-28" />
   <meta name="citation_publication_date" content="2023-07-28" />
   <meta property="article:published_time" content="2023-07-28" />
-  <meta name="dc.modified" content="2023-07-28T18:06:10+00:00" />
-  <meta property="article:modified_time" content="2023-07-28T18:06:10+00:00" />
+  <meta name="dc.modified" content="2023-07-28T18:47:47+00:00" />
+  <meta property="article:modified_time" content="2023-07-28T18:47:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/22d7337cba16164ffab54e746a67da3493b989b5/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/22d7337cba16164ffab54e746a67da3493b989b5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/22d7337cba16164ffab54e746a67da3493b989b5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fb6b3e95b4c74e0bcb756cd5e59b2d5b902d30eb/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fb6b3e95b4c74e0bcb756cd5e59b2d5b902d30eb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fb6b3e95b4c74e0bcb756cd5e59b2d5b902d30eb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/22d7337cba16164ffab54e746a67da3493b989b5/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/fb6b3e95b4c74e0bcb756cd5e59b2d5b902d30eb/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@22d7337](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@fb6b3e9](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 28, 2023.
 </em></small>
 
-|    **Versión** del producto 1.22d7337 de 28 Jul 2023
+|    **Versión** del producto 1.fb6b3e9 de 28 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 1, PR11. Detalle de los recursos, herramien
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.22d7337 del 28 Jul 2023 |
+| Versión        | 1.fb6b3e9 del 28 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -184,7 +184,7 @@ prnombre: "Detalle de los recursos, herramientas, roles, responsabilidades y par
 > 
 >    28 Jul 2023
 >
->    **Versión** 1.22d7337
+>    **Versión** 1.fb6b3e9
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.22d7337** del 28 Jul 2023                       |
+| Versión        | **1.fb6b3e9** del 28 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -349,7 +349,7 @@ Table: Ejemplo de métricas para el trabajo de arquitectura: transición de vers
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.22d7337** del 28 Jul 2023                       |
+| Versión        | **1.fb6b3e9** del 28 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -376,7 +376,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.22d7337** del 28 Jul 2023                       |
+| Versión        | **1.fb6b3e9** del 28 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -440,7 +440,7 @@ Resaltamos de las responsabilidades descritas arriba en la tabla que la de _Veri
 > 
 >    28 Jul 2023
 >
->    **Versión** 1.22d7337
+>    **Versión** 1.fb6b3e9
 
 <br>
 
@@ -486,7 +486,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.22d7337** del 28 Jul 2023                         |
+| Versión        | **1.fb6b3e9** del 28 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -511,17 +511,26 @@ El propósito de traer como referencia el plano actual de arquitectura del FNA e
 ### Plano General Objetivo
 Presentamos la arquitectura de referencia propuesta dividida en dos niveles de detalle.
 
-#### Nivel de detalle 1
+#### Nivel de detalle 1: Zonas de la arquitectura
+Las zonas o segmentos de la arquitectura presentados en la imagen separan las responsabilidades de cada parte del panorama completo. Estas divisiones, aunque granulares, son importantes para organizar el y hacer avances en los trabajos sin que uno detenga al otro.
 
-![Fondo Nacional del Ahorro - Vista general de arquitectura de referencia. N1](images/arqimage1.1.png){#fig: width="13in" height="7in"}
+![Fondo Nacional del Ahorro - Vista general de arquitectura de referencia. Nivel de detalle 1. Separación de segmentos de la arquitectura de referencia del FNA.](images/arqimage1.1.png){#fig: width="13in" height="7in"}
+
+<br>
+
+Este nivel de detalle podemos asimilarlo como un alcance horizontal de la arquitectura de referencia en la que se informa acerca de los aspectos de la empresa que esta considera. Al contener estos paquetes de trabajo macro expresa una especie de alcance: lo que no esté en estos segmentos no será considerado por el trabajo de arquitectura. En el siguiente nivel de detalle realizaremos una división mayor en donde el objetivo es el mismo, _dividir y organizar el trabajo de arquitectura_.
 
 <br>
 
-#### Nivel de detalle 2
+#### Nivel de detalle 2: Áreas de servicios
+En este nivel de detalle realizamos la división interna de las zonas de arquitectura presentada anteriormente. Utilizaremos esta división para denotar los servicios SOA que el FNA requiere para el sostenimiento de negocio, la operación y la infraestructura.
 
-![Fondo Nacional del Ahorro - Vista general de arquitectura de referencia. N1](images/arqimage2.png){#fig: width="13in" height="7in"}
+![Fondo Nacional del Ahorro - Vista general de arquitectura de referencia. Nivel de detalle 2. Separación de subsegmentos de la arquitectura de referencia del FNA.](images/arqimage2.png){#fig:arqimage2.png width="13in" height="7in"}
 
 <br>
+
+Esta división es más táctica que la división de zonas presentada antes. Este vista de áreas de servicios le comunica al equipo de la oficina de arquitectura cuáles serán los dominios enfocados que debe cuidar, los equipos de trabajo que debe considerar, los componentes que debe procurar y el rol de estos, y por supuesto, la comunicación que deben tener estos respecto de sus segmentos contenedores.
+
 
 ## Dominio de Datos FNA
 Para la arquitectura SOA objetivo se propone un enfoque conocido como malla de datos. Este paradigma permite pensar en los datos como productos: disponibles y gestionados para su consumo como un producto. La malla de datos introduce cambios organizativos y de procesos que el Fondo Nacional necesitará para gestionar los datos como un activo de capital tangible del negocio.
