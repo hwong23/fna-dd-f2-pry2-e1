@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-29" />
   <meta name="citation_publication_date" content="2023-07-29" />
   <meta property="article:published_time" content="2023-07-29" />
-  <meta name="dc.modified" content="2023-07-29T21:37:01+00:00" />
-  <meta property="article:modified_time" content="2023-07-29T21:37:01+00:00" />
+  <meta name="dc.modified" content="2023-07-29T22:23:28+00:00" />
+  <meta property="article:modified_time" content="2023-07-29T22:23:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/5b7e6027f38c36b2fdd91bc31beb352782e11812/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/5b7e6027f38c36b2fdd91bc31beb352782e11812/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/5b7e6027f38c36b2fdd91bc31beb352782e11812/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/66e6b82cb71b39b2682db83d4c28aeaef9f682a4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/66e6b82cb71b39b2682db83d4c28aeaef9f682a4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/66e6b82cb71b39b2682db83d4c28aeaef9f682a4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/5b7e6027f38c36b2fdd91bc31beb352782e11812/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/66e6b82cb71b39b2682db83d4c28aeaef9f682a4/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@5b7e602](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@66e6b82](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 29, 2023.
 </em></small>
 
-|    **Versión** del producto 1.5b7e602 de 29 Jul 2023
+|    **Versión** del producto 1.66e6b82 de 29 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 1, PR11. Detalle de los recursos, herramien
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.5b7e602 del 29 Jul 2023 |
+| Versión        | 1.66e6b82 del 29 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -184,12 +184,12 @@ prnombre: "Detalle de los recursos, herramientas, roles, responsabilidades y par
 > 
 >    29 Jul 2023
 >
->    **Versión** 1.5b7e602
+>    **Versión** 1.66e6b82
 
 <br>
 
 # Producto 11: PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes
-La arquitectura SOA de referencia SOA 2.0 del FNA, objeto de este proyecto, la forman las estructuras e integraciones de productos y servicios SOA. Esta es el soporte de decisiones de la Vicepresidencia de tecnología del FNA, tanto de desarrollo, mejoras a las aplicaciones y herramientas de software del FNA, y para la adquisición y migración de tecnologías específicas. 
+La arquitectura referencia SOA 2.0 del FNA, objeto de este proyecto, la forman las estructuras e integraciones de productos y servicios SOA. Esta es el soporte de decisiones de la Vicepresidencia de tecnología del FNA, tanto de desarrollo, mejoras a las aplicaciones y herramientas de software del FNA, y para la adquisición y migración de tecnologías específicas. 
 
 Este producto define los elementos mínimos para garantizar la vigencia y ejercicio de la arquitectura de referencia SOA, objeto de este proyecto, y línea base para dirigir el diseño, desarrollo y entrega de los servicios SOA y tecnologías del FNA.
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.5b7e602** del 29 Jul 2023                       |
+| Versión        | **1.66e6b82** del 29 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -349,7 +349,7 @@ Table: Ejemplo de métricas para el trabajo de arquitectura: transición de vers
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.5b7e602** del 29 Jul 2023                       |
+| Versión        | **1.66e6b82** del 29 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -376,7 +376,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.5b7e602** del 29 Jul 2023                       |
+| Versión        | **1.66e6b82** del 29 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -440,7 +440,7 @@ Resaltamos de las responsabilidades descritas arriba en la tabla que la de _Veri
 > 
 >    29 Jul 2023
 >
->    **Versión** 1.5b7e602
+>    **Versión** 1.66e6b82
 
 <br>
 
@@ -458,15 +458,16 @@ La Arquitecturas de referencias 2.0 es la responsable de definir y evolucionar l
 
 ## Contenidos
 1. Diseño y representación de la Arquitectura de Referencia 2.0 del FNA
-2. Consideraciones para implementar la arquitectura de referencia
-3. Vistas lógicas y conceptuales de los sistemas de información
+2. Consideraciones para implementar la arquitectura de referencia del FNA
+3. Vistas lógicas y conceptuales de las arquitecturas de referencia del FNA
 4. Documentación técnica 0.1 de la Arquitectura de Referencia 2.0 del FNA
 
 <br>
 
 ## Criterios de Aceptación
-* Vistas lógicas y conceptuales de los sistemas de información
-* Validación de la Arquitectura de Referencia 2.0 del FNA [- Plantilla "Gestión y Gobierno Arquitectura Empresarial (Mega Hopex) MIPG, MRAE, Marco Transformación Digital, TOGAF"]
+* Enterimiento de las vistas lógicas y conceptuales de las arquitecturas de referencia del FNA
+* Entedimiento de los procedimientos para creación y mantenim de las arquitecturas de referencia del FNA
+* Entedimiento de las consideraciones para la implementacieon de las arquitecturas de referencia del FNA
 
 <br>
 
@@ -486,7 +487,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.5b7e602** del 29 Jul 2023                         |
+| Versión        | **1.66e6b82** del 29 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -603,7 +604,7 @@ A continuación resaltamos algunas características de interés respecto de los 
 | Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.5b7e602** del 29 Jul 2023                         |
+| Versión        | **1.66e6b82** del 29 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -636,6 +637,27 @@ En este diagrama presentamos esta consideración de forma visual. Debemos observ
 El FNA debe alejarse de los diseños generales que funcionan solamente como una organización base que carece de arquitectura (decisiones). Estos diseños no aportan ni resuelven un problema específico y son apenas una forma de organización de las partes de un sistema de información, pero no una arquitectura como la conocemos en este contexto. 
 
 <br>
+
+
+<div style="page-break-before: always;"></div>
+\newpage
+
+| Tema           | Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​: **Vistas lógicas y conceptuales de las arquitecturas de referencia del FNA** |
+|----------------|----------------------------------------------------------------------|
+| Palabras clave | SOA, Arquitectura de referencia, características,            |
+| Autor          |                                                              |
+| Fuente         |                                                              |
+| Versión        | **1.66e6b82** del 29 Jul 2023                         |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+# Vistas Lógicas y Conceptuales de las Arquitecturas de Referencia del FNA
+
+## Definición
+La arquitectura de referencia SOA 2.0 del FNA, objeto de este proyecto, la forman las estructuras e integraciones entre datos, productos y servicios SOA. Virtus de esto, es el soporte de decisiones de la Vicepresidencia de tecnología del FNA, tanto de desarrollo, mejoras a las aplicaciones y herramientas de software del FNA, y para la adquisición y migración de tecnologías específicas.
+
+Este producto del proyecto define la línea base de la arquitectura de referencia 2.0 del FNA, necesaria para dirigir el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en este plano de referencia (como microservicios, REST, API, infraestructura Nube, etc.) y favorece la adopción del _estilo de arquitectura orientado a eventos_ para atender las funcionalidades y necesidades de negocio, que para este proyecto son prioridad la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA.
 
 
 <div style="page-break-before: always;"></div>
