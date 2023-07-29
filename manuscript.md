@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-29" />
   <meta name="citation_publication_date" content="2023-07-29" />
   <meta property="article:published_time" content="2023-07-29" />
-  <meta name="dc.modified" content="2023-07-29T21:29:40+00:00" />
-  <meta property="article:modified_time" content="2023-07-29T21:29:40+00:00" />
+  <meta name="dc.modified" content="2023-07-29T21:37:01+00:00" />
+  <meta property="article:modified_time" content="2023-07-29T21:37:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/05f42bdcc734be11cf930c963462938cc2ad0246/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/05f42bdcc734be11cf930c963462938cc2ad0246/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/05f42bdcc734be11cf930c963462938cc2ad0246/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/5b7e6027f38c36b2fdd91bc31beb352782e11812/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/5b7e6027f38c36b2fdd91bc31beb352782e11812/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/5b7e6027f38c36b2fdd91bc31beb352782e11812/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/05f42bdcc734be11cf930c963462938cc2ad0246/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/5b7e6027f38c36b2fdd91bc31beb352782e11812/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@05f42bd](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@5b7e602](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 29, 2023.
 </em></small>
 
-|    **Versión** del producto 1.05f42bd de 29 Jul 2023
+|    **Versión** del producto 1.5b7e602 de 29 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 1, PR11. Detalle de los recursos, herramien
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.05f42bd del 29 Jul 2023 |
+| Versión        | 1.5b7e602 del 29 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -184,7 +184,7 @@ prnombre: "Detalle de los recursos, herramientas, roles, responsabilidades y par
 > 
 >    29 Jul 2023
 >
->    **Versión** 1.05f42bd
+>    **Versión** 1.5b7e602
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.05f42bd** del 29 Jul 2023                       |
+| Versión        | **1.5b7e602** del 29 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -349,7 +349,7 @@ Table: Ejemplo de métricas para el trabajo de arquitectura: transición de vers
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.05f42bd** del 29 Jul 2023                       |
+| Versión        | **1.5b7e602** del 29 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -376,7 +376,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.05f42bd** del 29 Jul 2023                       |
+| Versión        | **1.5b7e602** del 29 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -440,7 +440,7 @@ Resaltamos de las responsabilidades descritas arriba en la tabla que la de _Veri
 > 
 >    29 Jul 2023
 >
->    **Versión** 1.05f42bd
+>    **Versión** 1.5b7e602
 
 <br>
 
@@ -486,7 +486,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.05f42bd** del 29 Jul 2023                         |
+| Versión        | **1.5b7e602** del 29 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -603,7 +603,7 @@ A continuación resaltamos algunas características de interés respecto de los 
 | Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.05f42bd** del 29 Jul 2023                         |
+| Versión        | **1.5b7e602** del 29 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -631,7 +631,7 @@ El diseño de capas, si bien es uno con los que inicia una arquitectura, comport
 
 En este diagrama presentamos esta consideración de forma visual. Debemos observar que el diseño de capas sí organiza y prepara a una posterior arquitectura ante un problema, sea de flexbilidad, despliegue, etc., pero no está tomando decisiones más allá de eso.
 
-![Consideraciones de Diseño FNA. Acomplamiento y Dependencia al proveedor.](images/arqrefnegativa2.png){#fig:arqrefnegativa2.png width="6in" height="3in"}
+![Consideraciones de Diseño FNA. Capas genéricas, sin arquitectura. Preparan (organizan) un sistema información, servicio o componente de software para la arquitectura.](images/arqrefnegativa2.png){#fig:arqrefnegativa2.png width="6in" height="3in"}
 
 El FNA debe alejarse de los diseños generales que funcionan solamente como una organización base que carece de arquitectura (decisiones). Estos diseños no aportan ni resuelven un problema específico y son apenas una forma de organización de las partes de un sistema de información, pero no una arquitectura como la conocemos en este contexto. 
 
