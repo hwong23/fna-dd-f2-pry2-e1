@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-02" />
   <meta name="citation_publication_date" content="2023-08-02" />
   <meta property="article:published_time" content="2023-08-02" />
-  <meta name="dc.modified" content="2023-08-02T17:27:05+00:00" />
-  <meta property="article:modified_time" content="2023-08-02T17:27:05+00:00" />
+  <meta name="dc.modified" content="2023-08-02T18:12:41+00:00" />
+  <meta property="article:modified_time" content="2023-08-02T18:12:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/88460f23ee848cf5fab3c31c7d6849a5d95829c3/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/88460f23ee848cf5fab3c31c7d6849a5d95829c3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/88460f23ee848cf5fab3c31c7d6849a5d95829c3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/40b446e9c586da49a753313f9e833d11adc06817/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/40b446e9c586da49a753313f9e833d11adc06817/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/40b446e9c586da49a753313f9e833d11adc06817/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/88460f23ee848cf5fab3c31c7d6849a5d95829c3/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/40b446e9c586da49a753313f9e833d11adc06817/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@88460f2](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@40b446e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 2, 2023.
 </em></small>
 
-|    **Versión** del producto 1.88460f2 de 02 Aug 2023
+|    **Versión** del producto 1.40b446e de 02 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 1, PR11. Detalle de los recursos, herramien
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.88460f2 del 02 Aug 2023 |
+| Versión        | 1.40b446e del 02 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -185,7 +185,7 @@ prnombre: "Detalle de los recursos, herramientas, roles, responsabilidades y par
 > 
 >    02 Aug 2023
 >
->    **Versión** 1.88460f2
+>    **Versión** 1.40b446e
 
 <br>
 
@@ -228,7 +228,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.88460f2** del 02 Aug 2023                       |
+| Versión        | **1.40b446e** del 02 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -366,7 +366,7 @@ Table: Ejemplo de métricas para el trabajo de arquitectura: transición de vers
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.88460f2** del 02 Aug 2023                       |
+| Versión        | **1.40b446e** del 02 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -393,7 +393,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.88460f2** del 02 Aug 2023                       |
+| Versión        | **1.40b446e** del 02 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -461,7 +461,7 @@ prnombre: "Diseño detallado y vistas funcional, despliegue, información, integ
 > 
 >    02 Aug 2023
 >
->    **Versión** 1.88460f2
+>    **Versión** 1.40b446e
 
 <br>
 
@@ -508,7 +508,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.88460f2** del 02 Aug 2023                         |
+| Versión        | **1.40b446e** del 02 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -549,9 +549,24 @@ En este nivel de detalle realizamos la división interna de las zonas de arquite
 
 ![Fondo Nacional del Ahorro - Vista general de arquitectura de referencia. Nivel de detalle 2. Separación de subsegmentos de la arquitectura de referencia del FNA.](images/arqimage2.png){#fig:arqimage2.png width="13in" height="7in"}
 
-<br>
-
 Esta división es más táctica que la división de zonas presentada antes. Este vista de áreas de servicios le comunica al equipo de la oficina de arquitectura cuáles serán los dominios enfocados que debe cuidar, los equipos de trabajo que debe considerar, los componentes que debe procurar y el rol de estos, y por supuesto, la comunicación que deben tener estos respecto de sus segmentos contenedores.
+
+### Características de la Arquitectura de Servicios 2.0 del FNA
+#### Actualización de estilo de arquitectura
+Promover el uso de microservicios como estilo de arquitectura para ser integrado con la estrategia SOA existente en el FNA​. Mas en particular, esto permite proponer esquemas de arquitectura desacopladas​, actualizar el portafolio de servicios del FNA con tecnologías actuales mediante un estilo de arquitectura orientada a microservicios​, y propender por la agilidad en el desarrollo de soluciones.
+
+#### Institucionalización del Portafolio de Servicios
+Establecer un portafolio institucional de funcionalidades, recursos y datos expuestos en mayor parte por API que sirva a la vez como fuente única de la verdad sobre las versiones, tecnologías y operaciones funcionales del FNA. Esta característica allana ventajas tanto directas como la gestión y estructuración del portafolio de API del FNA​, como otras un tanto indirectas, como la definición de los contratos de las API, las tecnologías y los atributos de calidad de las API de la organización​.
+
+#### Modernización y robustez de la gestión de servicios
+Mejorar de la comunicación, estabilidad (reintento y tolerancia a fallos) y la disponibilidad de servicios SOA y microservicios del Fondo Nacional mediante el uso de comunicadores (proxys). En cuanto a la gestión de servicios esta característica trae ventajas como la modernizar de los mecanismos de orquestación de servicios​, propone alternativas para el manejo de escalabilidad, seguridad y monitoreo de servicios​, y orienta la operación de servicios hacia la computación en la nube​.
+
+#### Redefinición de la integración de servicios y aplicaciones
+Establecer un esquema de integración orientado a mensajes integrado a su vez con mecanismos de comunicación síncronos​. Esta característica potencializa el uso de la tecnología de integración instalada, esto es, el ESB del FNA, así como las soluciones de colas y mensajería), moderniza los esquemas de integración de la organización mediante la hibridación de modelos de comunicación (síncronos y asíncronos)​, y _propende por arquitecturas orientadas a eventos​_.
+
+#### Aumento del rendimiento en el transporte de datos y operaciones
+Proveer una plataforma de datos de alta velocidad que intermedie entre el API Gateway y la Plataforma híbrida de integración, estas dos nuevas características antes descritas que la requieren. Además, esta mejora en el rendimiento viene a propicia mayor desacoplamiento de sistemas de información​, vienen a bajar la latencia de las consultas de información, y como ventaja a otros segmentos de la arquitectura del FNA, beneficia la alimentación a los repositorios analíticos.
+
 
 <br>
 
@@ -565,8 +580,7 @@ Una malla de datos tiene como principal objetivo que estos sean más accesibles 
 
 ### Plano de Datos Objetivo (data mesh)
 El desarrollo de la arquitectura candidata de información integrará los marcos de referencia TOGAF, el marco de referencia DAMA y las disposiciones de la política de gobierno digital, en particular las
-especificadas por el Marco de Referencia de Arquitectura Empresarial para entidades del Estado Colombiano - MRAE para orientar la evaluación del estado actual y la definición del estado deseado integrando
-capacidades para el gobierno de datos, arquitectura de datos, diseño y modelamiento de datos, operaciones y almacenamiento de datos, seguridad de datos, interoperabilidad e integración de datos, gestión documental y contenido, datos maestros y de referencia, inteligencia de negocios y analítica, metadatos y calidad de datos.
+especificadas por el Marco de Referencia de Arquitectura Empresarial para entidades del Estado Colombiano - MRAE para orientar la evaluación del estado actual y la definición del estado deseado integrando capacidades para el gobierno de datos, arquitectura de datos, diseño y modelamiento de datos, operaciones y almacenamiento de datos, seguridad de datos, interoperabilidad e integración de datos, gestión documental y contenido, datos maestros y de referencia, inteligencia de negocios y analítica, metadatos y calidad de datos.
 
 ![Plano de Datos Objetivo del FNA](images/datimage2.png){#fig: width="6in" height="3.5in"}
 
@@ -574,15 +588,13 @@ La Ilustración a continuación muestra los marcos de referencia aplicables al d
 
 ![Marcos de referencia aplicables a la arquitectura de información](images/datimage3.png){#fig: width="6in" height="2.4in"}
 
-
-### Características Principales de la Arquitectura de Datos 2.0 del FNA
+### Características de la Arquitectura de Datos 2.0 del FNA
 **Propiedad impulsada por el dominio**: el primer principio de un data
 mesh es transferir el poder de los datos y su propiedad a las manos de los equipos de dominio del FNA, es decir a las vicepresidencias y sus departamentos y unidades de negocio. Ellos serán los dueños de los datos de un extremo a otro, y podrán asegurarse de tener desde las fuentes correctas hasta los procesamientos necesarios y la entrega de los datos para que otros equipos de dominio los aprovechen como productos.
 
 **Datos como producto:** los equipos de dominio son responsables de los datos y también de los productos de datos resultantes. El objetivo es lograr que cada "producto de datos" sea descubierto y utilizable por los consumidores y otros equipos de dominio, y el propietario del dominio es responsable de mantener y actualizar (o desaprobar) estos productos para garantizar la calidad y la precisión.
 
-**Infraestructura de autoservicio**: autoservicio es la tendencia a dejar las tecnologías complejas y las
-habilidades de nicho. El Data mesh se basa, por principio, en una gestión de datos mediante una plataforma común y un conjunto de herramientas que cualquier equipo de dominio pueda aprovechar.
+**Infraestructura de autoservicio**: autoservicio es la tendencia a dejar las tecnologías complejas y las habilidades de nicho. El Data mesh se basa, por principio, en una gestión de datos mediante una plataforma común y un conjunto de herramientas que cualquier equipo de dominio pueda aprovechar.
 
 **Gobernanza federada**: si de verdad debemos eliminar controles de acceso necesitamos un equilibrio entre las políticas y controles de gobernanza global y la posibilidad de dominio y creación de productos. Esto es lo que llamamos gobernanza federada, y en la práctica es fundamental para garantizar la privacidad, el cumplimiento y la posibilidad de escalar.
 
@@ -598,7 +610,7 @@ En respuesta a las necesidades determinadas en los diagnósticos de Fase I, prop
 
 A continuación resaltamos algunas características de interés respecto de los problemas que esta arquitectura soluciona.
 
-### Principales Características
+### Características de la Arquitectura Tecnológica 2.0 del FNA
 **Arquitectura sin servidor para la interfaz web**: Distribución de contenidos con baja latencia y altas velocidades de transferencia usando CDN hospedando el contenido estático de la aplicación en un servicio de almacenamiento de objetos, eliminando la necesidad de utilizar servidores en esta capa.
 
 **Enfoque de microservicios**: Permite obtener capacidad de cómputo particular según sea requerido para soportar la carga. 
@@ -625,7 +637,7 @@ A continuación resaltamos algunas características de interés respecto de los 
 | Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.88460f2** del 02 Aug 2023                         |
+| Versión        | **1.40b446e** del 02 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -668,7 +680,7 @@ El FNA debe alejarse de los diseños generales que funcionan solamente como una 
 | Palabras clave | SOA, Arquitectura de referencia, características,            |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.88460f2** del 02 Aug 2023                         |
+| Versión        | **1.40b446e** del 02 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
