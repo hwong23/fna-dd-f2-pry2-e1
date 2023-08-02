@@ -2,7 +2,7 @@
   "pandoc": {
     "date-meta": "2023-08-02",
     "author-meta": [],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.date\" content=\"2023-08-02\" />\n<meta name=\"citation_publication_date\" content=\"2023-08-02\" />\n<meta property=\"article:published_time\" content=\"2023-08-02\" />\n<meta name=\"dc.modified\" content=\"2023-08-02T17:05:08+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-08-02T17:05:08+00:00\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<link rel=\"canonical\" href=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/\" />\n<meta property=\"og:url\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/\" />\n<meta property=\"twitter:url\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/\" />\n<meta name=\"citation_pdf_url\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/v/26270162370de1dba9b086c9b9dcde9d8cfbd71b/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/v/26270162370de1dba9b086c9b9dcde9d8cfbd71b/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/v/26270162370de1dba9b086c9b9dcde9d8cfbd71b/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.date\" content=\"2023-08-02\" />\n<meta name=\"citation_publication_date\" content=\"2023-08-02\" />\n<meta property=\"article:published_time\" content=\"2023-08-02\" />\n<meta name=\"dc.modified\" content=\"2023-08-02T17:12:11+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-08-02T17:12:11+00:00\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<link rel=\"canonical\" href=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/\" />\n<meta property=\"og:url\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/\" />\n<meta property=\"twitter:url\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/\" />\n<meta name=\"citation_pdf_url\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/v/f47c79f656a5762c94ce4730a5f2b06763c99ce2/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/v/f47c79f656a5762c94ce4730a5f2b06763c99ce2/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://hwong23.github.io/fna-dd-f2-pry2-e1/v/f47c79f656a5762c94ce4730a5f2b06763c99ce2/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.bib",
       "content/manual-references.json"
@@ -15,7 +15,7 @@
   "manubot": {
     "date": "2023-08-02",
     "date_long": "August 2, 2023",
-    "generated": "2023-08-02T17:05:08+00:00",
+    "generated": "2023-08-02T17:12:11+00:00",
     "generated_date_long": "August 2, 2023",
     "randomize_author_order": false,
     "authors": [],
@@ -24,15 +24,15 @@
       "repo_slug": "hwong23/fna-dd-f2-pry2-e1",
       "repo_owner": "hwong23",
       "repo_name": "fna-dd-f2-pry2-e1",
-      "commit": "26270162370de1dba9b086c9b9dcde9d8cfbd71b",
-      "triggering_commit": "26270162370de1dba9b086c9b9dcde9d8cfbd71b",
-      "build_url": "https://github.com/hwong23/fna-dd-f2-pry2-e1/commit/26270162370de1dba9b086c9b9dcde9d8cfbd71b/checks",
-      "job_url": "https://github.com/hwong23/fna-dd-f2-pry2-e1/actions/runs/5741682686"
+      "commit": "f47c79f656a5762c94ce4730a5f2b06763c99ce2",
+      "triggering_commit": "f47c79f656a5762c94ce4730a5f2b06763c99ce2",
+      "build_url": "https://github.com/hwong23/fna-dd-f2-pry2-e1/commit/f47c79f656a5762c94ce4730a5f2b06763c99ce2/checks",
+      "job_url": "https://github.com/hwong23/fna-dd-f2-pry2-e1/actions/runs/5741754506"
     },
     "html_url": "https://hwong23.github.io/fna-dd-f2-pry2-e1/",
     "pdf_url": "https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf",
-    "html_url_versioned": "https://hwong23.github.io/fna-dd-f2-pry2-e1/v/26270162370de1dba9b086c9b9dcde9d8cfbd71b/",
-    "pdf_url_versioned": "https://hwong23.github.io/fna-dd-f2-pry2-e1/v/26270162370de1dba9b086c9b9dcde9d8cfbd71b/manuscript.pdf",
+    "html_url_versioned": "https://hwong23.github.io/fna-dd-f2-pry2-e1/v/f47c79f656a5762c94ce4730a5f2b06763c99ce2/",
+    "pdf_url_versioned": "https://hwong23.github.io/fna-dd-f2-pry2-e1/v/f47c79f656a5762c94ce4730a5f2b06763c99ce2/manuscript.pdf",
     "manubot_version": "0.5.5",
     "rootstock_commit": "f9fff34656752c8d268d50c59981f4076036764b",
     "manuscript_stats": {
