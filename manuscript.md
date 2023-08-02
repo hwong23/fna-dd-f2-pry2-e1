@@ -1,17 +1,6 @@
 ---
-title: Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1
-keywords:
-- SOA
-- madurez
-- gobierno
-- FNA
-lang: en-US
 date-meta: '2023-08-02'
-author-meta:
-- Harry Wong, ing.
-- Wilson Morales, ing.
-- Flavio Hernandez, ing.
-- Viviana M. Martinez, ing.
+author-meta: []
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -19,38 +8,24 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta name="dc.date" content="2023-08-02" />
   <meta name="citation_publication_date" content="2023-08-02" />
   <meta property="article:published_time" content="2023-08-02" />
-  <meta name="dc.modified" content="2023-08-02T09:30:38+00:00" />
-  <meta property="article:modified_time" content="2023-08-02T09:30:38+00:00" />
-  <meta name="dc.language" content="en-US" />
-  <meta name="citation_language" content="en-US" />
+  <meta name="dc.modified" content="2023-08-02T17:01:49+00:00" />
+  <meta property="article:modified_time" content="2023-08-02T17:01:49+00:00" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Harry Wong, ing." />
-  <meta name="citation_author_institution" content="Arquitecto SOA, Stefanini" />
-  <meta name="citation_author" content="Wilson Morales, ing." />
-  <meta name="citation_author_institution" content="Software, Aplicaciones" />
-  <meta name="citation_author" content="Flavio Hernandez, ing." />
-  <meta name="citation_author_institution" content="SOA, Arquitectura" />
-  <meta name="citation_author" content="Viviana M. Martinez, ing." />
-  <meta name="citation_author_institution" content="Analista, Proyectos" />
   <link rel="canonical" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta property="og:url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta property="twitter:url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/9124955658cbe95caee1839645b43383cb7bb7cf/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/9124955658cbe95caee1839645b43383cb7bb7cf/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/9124955658cbe95caee1839645b43383cb7bb7cf/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/72aa1dce85f9bc8a11f38107e4cf07d2a4618f91/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/72aa1dce85f9bc8a11f38107e4cf07d2a4618f91/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/72aa1dce85f9bc8a11f38107e4cf07d2a4618f91/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +42,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/9124955658cbe95caee1839645b43383cb7bb7cf/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/72aa1dce85f9bc8a11f38107e4cf07d2a4618f91/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@9124955](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@72aa1dc](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 2, 2023.
 </em></small>
 
-|    **Versión** del producto 1.9124955 de 02 Aug 2023
+|    **Versión** del producto 1.72aa1dc de 02 Aug 2023
 
 
 
@@ -84,46 +59,9 @@ del August 2, 2023.
 
 
 
-+ **Harry Wong, ing.**
-  <br>
-    · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
-    [e_hwong](https://github.com/e_hwong)
-    <br>
-  <small>
-     Arquitecto SOA, Stefanini
-  </small>
-
-+ **Wilson Morales, ing.**
-  <br>
-    · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
-    [wmorales](https://github.com/wmorales)
-    <br>
-  <small>
-     Software, Aplicaciones
-  </small>
-
-+ **Flavio Hernandez, ing.**
-  <br>
-    · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
-    [fhernandez](https://github.com/fhernandez)
-    <br>
-  <small>
-     SOA, Arquitectura
-  </small>
-
-+ **Viviana M. Martinez, ing.**
-  <br>
-    · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
-    [vmmartinez](https://github.com/vmmartinez)
-    <br>
-  <small>
-     Analista, Proyectos
-  </small>
-
 
 ::: {#correspondence}
-✉ — Enviar mensajes a Harry Wong, ing. \<e_hwong@stefanini.com\>.
-
+✉ — Enviar mensajes a 
 
 :::
 
@@ -151,7 +89,7 @@ Entrega de los productos de la Etapa 1, PR11. Detalle de los recursos, herramien
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.9124955 del 02 Aug 2023 |
+| Versión        | 1.72aa1dc del 02 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -184,7 +122,7 @@ prnombre: "Detalle de los recursos, herramientas, roles, responsabilidades y par
 > 
 >    02 Aug 2023
 >
->    **Versión** 1.9124955
+>    **Versión** 1.72aa1dc
 
 <br>
 
@@ -196,7 +134,7 @@ Este producto define los elementos mínimos para garantizar la vigencia y ejerci
 <br>
 
 ## Justificación
-Los objetivos del Gobierno SOA del FNA (Proyecto 1, E-Service, Fase II): Mantenimiento de Relación Negocio - Arquitectura (G-OBJG), y Seguimiento a cambios en la arquitectura de referencia (G-OBJS3) exigen la mantenibilidad de la arquitectura de referencia, responsable de 1) dirigir y evolucionar las soluciones tecnológica del FNA, 2) de orientar el diseño de las estas, y 3) ser el instrumento de control para hacer cumplir los principios de diseño de servicios SOA del FNA y del Manual de Gobierno. Para lograr estos objetivos y responsabilidades dadas, es necesario que desde este proyecto se detallen los recursos, herramientas, roles, responsabilidades y participantes que garanticen que los procesos y operaciones de gestión, cambio y vigencia de la arquitectura de referencia sean puestos en marcha cuando el FNA así lo considere.
+En el proyecto anterior, Gobierno SOA del FNA (Proyecto 1, E-Service, Fase II) se establecen objetivos de gobierno: Mantenimiento de Relación Negocio - Arquitectura (G-OBJG1), y Seguimiento a cambios en la arquitectura de referencia (G-OBJS3). Esto demanda mantenibilidad de la arquitectura de referencia, que a su vez esta es responsable de 1) dirigir y evolucionar las soluciones tecnológica del FNA. Demanda también 2) orientar el diseño de estas arquitecturas, y 3) ser el instrumento de control con el cual hacer cumplir los principios de diseño de servicios SOA del FNA y del Manual de Gobierno. Para lograr estos objetivos y responsabilidades exigidas por gobierno, es necesario que desde este proyecto, PRY01. Gobierno SOA del FNA, se detallen los recursos, herramientas, roles, responsabilidades y participantes que garanticen que los procesos y operaciones de gestión, cambio y vigencia de la arquitectura de referencia sean puestos en marcha cuando el FNA así lo considere.
 
 ## Contenidos
 1. Flujo de trabajo del mantenimiento de la arquitectura de referencia (Oficina de Arquitectura del FNA)
@@ -227,7 +165,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.9124955** del 02 Aug 2023                       |
+| Versión        | **1.72aa1dc** del 02 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -365,7 +303,7 @@ Table: Ejemplo de métricas para el trabajo de arquitectura: transición de vers
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.9124955** del 02 Aug 2023                       |
+| Versión        | **1.72aa1dc** del 02 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -392,7 +330,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.9124955** del 02 Aug 2023                       |
+| Versión        | **1.72aa1dc** del 02 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -460,7 +398,7 @@ prnombre: "Diseño detallado y vistas funcional, despliegue, información, integ
 > 
 >    02 Aug 2023
 >
->    **Versión** 1.9124955
+>    **Versión** 1.72aa1dc
 
 <br>
 
@@ -507,13 +445,13 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.9124955** del 02 Aug 2023                         |
+| Versión        | **1.72aa1dc** del 02 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
 # Diseño y Representación de las Arquitecturas de Referencia 2.0 del FNA
-Partimos de la representación de la vista general actual de la arquitectura del FNA y que implica a las problemáticas diagnosticadas en Fase I @eservices1-22. Sobre este plano realizaremos luego las propuestas de nuevas arquitecturas respecto a la actual dirigidas a enfrentar dichas problemáticas allí planteadas, y que se resumen en las siguientes.
+Partimos de la representación de la vista general actual de la arquitectura del FNA, la misma que implica a las problemáticas diagnosticadas en Fase I @eservices1-22 (ver Resumen de problemas diagnosticados, E-Service, Fase I, 2022 en @eservices4-22). Sobre este plano realizaremos luego las propuestas de las vistas funcionales que fungen como arquitecturas de referencia en tanto que proyectan el entendimiento funcional destino útil para enfrentar dichas problemáticas planteadas en @eservices1-22, eservices3-22 y @eservices4-22, y que se resumen en las siguientes.
 
 1. Dependencia de proveedor (OBJ1)
 1. Fortaleza SOA de las aplicaciones (OBJ2)
@@ -525,7 +463,7 @@ _Fuente: E-Service, Fase I (2022)._
 ### Plano General Actual 
 El propósito de traer como referencia el plano actual de arquitectura del FNA es recordar dicho esquema  para poderlo comparar con la arquitectura propuesta.
 
-![Fondo Nacional del Ahorro - Vista general de arquitectura actual](images/arqimage1.png){#fig: width="12in" height="7in"}
+![Fondo Nacional del Ahorro - Vista general de arquitectura actual](images/arqimage1.png){#fig:arqimage1.png width="12in" height="7in"}
 
 <br>
 
@@ -535,7 +473,7 @@ Presentamos la arquitectura de referencia propuesta dividida en dos niveles de d
 #### Nivel de detalle 1: Zonas de la arquitectura
 Las zonas o segmentos de la arquitectura presentados en la imagen separan las responsabilidades de cada parte del panorama completo. Estas divisiones, aunque granulares, son importantes para organizar el y hacer avances en los trabajos sin que uno detenga al otro.
 
-![Fondo Nacional del Ahorro - Vista general de arquitectura de referencia. Nivel de detalle 1. Separación de segmentos de la arquitectura de referencia del FNA.](images/arqimage1.1.png){#fig: width="13in" height="7in"}
+![Fondo Nacional del Ahorro - Vista general de arquitectura de referencia. Nivel de detalle 1. Separación de segmentos de la arquitectura de referencia del FNA.](images/arqimage1.1.png){#fig:arqimage1.1.png width="13in" height="7in"}
 
 <br>
 
@@ -588,7 +526,7 @@ habilidades de nicho. El Data mesh se basa, por principio, en una gestión de da
 <br>
 
 ## Dominio de Infraestructura FNA
-Para la arquitectura SOA objetivo se propone un enfoque de computación en la nube donde se hace uso de componentes IaaS y PaaS, de infraestructura y pltaforma en la nube. Dentro de la oferta actual de componentes se pueden encontrar soluciones que permiten garantizar escalabilidad, disponibilidad, cumplimiento regulatorio y menores tiempos de salida al mercado.
+Para la arquitectura SOA objetivo se propone un enfoque de computación en la nube donde se hace uso de componentes IaaS y PaaS, de infraestructura y plataforma en la nube. Dentro de la oferta actual de componentes se pueden encontrar soluciones que permiten garantizar escalabilidad, disponibilidad, cumplimiento regulatorio y menores tiempos de salida al mercado.
 
 ### Arquitectura Objetivo
 En respuesta a las necesidades determinadas en los diagnósticos de Fase I, proponemos una base de infraestructura futura, pero compatible con el contexto actual del FNA. Por tanto, esta propuesta se centra en el estilo de arquitectura SOA mejorado con la malla de servicios y microservicios elásticos (auto escalado).
@@ -624,7 +562,7 @@ A continuación resaltamos algunas características de interés respecto de los 
 | Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.9124955** del 02 Aug 2023                         |
+| Versión        | **1.72aa1dc** del 02 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -633,24 +571,24 @@ A continuación resaltamos algunas características de interés respecto de los 
 En esta sección ampliaremos las consideraciones dadas al FNA para la creación y mantenimiento de arquitecturas de referencia. En este caso daremos información que advierta las incorreciones de diseño de las que debe alejarse la empresa. Estos diseños problemáticos que describiremos aquí deben ser usadas para vigilar cada cambio en las arquitecturas del FNA, así como en las evaluaciones, y comparar estos cambios contra estas advertencias para luego determinar si los diseños (y soluciones e implementaciones) requieren acciones de remediación.
 
 ## Diseños Centrados en el Proveedor
-El principal diseño del que debe alejarse el FNA es todo aquel el que aumente la dependencia de proveedor. Es decir, _los diseños centrados en el proveedor son los problemáticos_. Ejemplo de esto, y así diagnosticado en Fase I de esta consultoría, es el ERP Cobis. Este reune más de nueve módulos de software, la mayoría relacionados con la misión del Fondo Nacional. Es por tanto un diseño problemático que el ERP esté en el centro de la empresa y tender relaciones directas a este desde otros puntos de la empresa.
+El principal diseño del que debe alejarse el FNA es todo aquel el que aumente la dependencia de proveedor. Es decir, _los diseños centrados en el proveedor son los problemáticos_. Ejemplo de esto, y así diagnosticado en Fase I de esta consultoría, es el ERP Cobis. Este reúne más de nueve módulos de software, la mayoría relacionados con la misión del Fondo Nacional. Es por tanto un diseño problemático que el ERP esté en el centro de la empresa y tender relaciones directas a este desde otros puntos de la empresa.
 
-    Nota: en este contexto, nos referimos a una perspectica tecnológica de la empresa.
+    Nota: en este contexto, nos referimos a una perspectiva tecnológica de la empresa.
 
 En el diagrama siguiente presentamos esta consideración de forma visual en la que queremos se aprecie el problema de tender relaciones directas desde los procesos de negocio a un proveedor tecnológico, COBIS.
 
 ![Consideraciones de Diseño FNA. Acoplamiento y Dependencia al proveedor.](images/arqrefnegativa1.png){#fig:arqrefnegativa1.png width="6in" height="3in"}
 
-En la imagen: las relaciones directas que los procesos de negocio puedan tener con un proveedor son la causa de dos problemas: el acomplamiento al proveedor, lo que a su vez contribuye al problema de diseño que hemos llamado dependencia al proveedor.
+En la imagen: las relaciones directas que los procesos de negocio puedan tener con un proveedor son la causa de dos problemas: el acoplamiento al proveedor, lo que a su vez contribuye al problema de diseño que hemos llamado dependencia al proveedor.
 
-Este mismo problema se presenta de forma indirecta cuando existe un intermediario entre las partes. Siguiendo con el ejemplo ilustrado arriba, un intermediario entre los procesos de negocio y el proveedor, sea un bus empresarial, un integrador, proxie, o algún intermediario cualquiera de sus formas, comporta el mismo problema que denunciamos en este diseño centrado en el proveedor. La presencia de un intermediario no elimina la complicación del acomplamiento, solo lo soslaya, y al contrario, lo acrecienta.
+Este mismo problema se presenta de forma indirecta cuando existe un intermediario entre las partes. Siguiendo con el ejemplo ilustrado arriba, un intermediario entre los procesos de negocio y el proveedor sea un bus empresarial, un integrador, proxie, o algún intermediario cualquiera de sus formas, comporta el mismo problema que denunciamos en este diseño centrado en el proveedor. La presencia de un intermediario no elimina la complicación del acoplamiento, solo lo soslaya, y al contrario, lo acrecienta.
 
     Nota: este mismo problema se presenta de forma indirecta cuando existe un intermediario entre las partes. La presencia de un intermediario no elimina este problema, solo lo esconde, y por tanto, lo acrecienta.
 
 ## Diseños de Capas Generales
-El diseño de capas, si bien es uno con los que inicia una arquitectura, comporta los problema de la generalidad: no representa en realidad a ninguna arquitectura. Si consideramos a la arquitectura como la elección de una decisión de diseños sobre otra, las separación por capas genéricas no alcanza a realizar nada de eso. Este diseño no profundiza en ningún aspecto o problema a resolver, pero en cambio da la sensación de que sí, y ese es el problema.
+El diseño de capas, si bien es uno con los que inicia una arquitectura, comporta los problemas de la generalidad: no representa en realidad a ninguna arquitectura. Si consideramos a la arquitectura como la elección de una decisión de diseños sobre otra, la separación por capas genéricas no alcanza a realizar nada de eso. Este diseño no profundiza en ningún aspecto o problema a resolver, pero en cambio da la sensación de que sí, y ese es el problema.
 
-En este diagrama presentamos esta consideración de forma visual. Debemos observar que el diseño de capas sí organiza y prepara a una posterior arquitectura ante un problema, sea de flexbilidad, despliegue, etc., pero no está tomando decisiones más allá de eso.
+En este diagrama presentamos esta consideración de forma visual. Debemos observar que el diseño de capas sí organiza y prepara a una posterior arquitectura ante un problema, sea de flexibilidad, despliegue, etc., pero no está tomando decisiones más allá de eso.
 
 ![Consideraciones de Diseño FNA. Capas genéricas, sin arquitectura. Preparan (organizan) un sistema información, servicio o componente de software para la arquitectura.](images/arqrefnegativa2.png){#fig:arqrefnegativa2.png width="6in" height="3in"}
 
@@ -667,7 +605,7 @@ El FNA debe alejarse de los diseños generales que funcionan solamente como una 
 | Palabras clave | SOA, Arquitectura de referencia, características,            |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.9124955** del 02 Aug 2023                         |
+| Versión        | **1.72aa1dc** del 02 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -680,17 +618,17 @@ Tomando como entrada el contexto del FNA, presentamos una organización de compo
 
 1. Mejorar la estabilidad, el reintento la tolerancia a fallos y la disponibilidad de servicios SOA y los microservicios del Fondo Nacional mediante el uso de proxy
 1. Modernizar los mecanismos de orquestación de servicios con arreglo en el estilo de arquitectura de solución orientada a servicios y a eventos
-1. Independiza las acciones de escalabilidad, seguridad y monitoreo de servicios, de acuerdo al estilo de arquitectura de solución orientada a servicios
-1. Persigue el esquemas de operación de servicios orientados a la nube
+1. Independiza las acciones de escalabilidad, seguridad y monitoreo de servicios, de acuerdo con el estilo de arquitectura de solución orientada a servicios
+1. Persigue el esquema de operación de servicios orientados a la nube
 1. Tiene afinidad con el patrón de malla de servicios (service-mesh), Control Plan – Data Plane en la imagen
 
 
 * Mejorar proceso de diseño y construcción de soluciones orientadas a servicios
 * Optimizar el proceso de construcción de soluciones orientadas a servicios
-* U*nificar el proceso de construcción y ofrecer un lenguaje común con el negocio y entidades del sector
-* M*ejorar la oferta de servicios analíticos en el segmento del Fondo Nacional del Ahorro
+* Unificar el proceso de construcción y ofrecer un lenguaje común con el negocio y entidades del sector
+* Mejorar la oferta de servicios analíticos en el segmento del Fondo Nacional del Ahorro
 * Incrementar el nivel de utilización de la Tecnología SOA del Fondo Nacional del Ahorro
-* Soportar la ejecución (rediseño) de los procesos de negocio Fondo Nacional del Ahorro, guiados por la aquitectura 2.0
+* Soportar la ejecución (rediseño) de los procesos de negocio Fondo Nacional del Ahorro, guiados por la arquitectura 2.0
 * Mejorar el tiempo de puesta en producción
 * Modernizar las soluciones orientadas a servicios, mediante la gestión de tecnologías de arquitectura 2.0
 * Gobierno y gestión de la tecnología orientada a servicios por la arquitectura 2.0
