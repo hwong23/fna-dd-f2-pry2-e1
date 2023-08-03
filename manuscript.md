@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-08-02'
+date-meta: '2023-08-03'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-08-02" />
-  <meta name="citation_publication_date" content="2023-08-02" />
-  <meta property="article:published_time" content="2023-08-02" />
-  <meta name="dc.modified" content="2023-08-02T18:12:41+00:00" />
-  <meta property="article:modified_time" content="2023-08-02T18:12:41+00:00" />
+  <meta name="dc.date" content="2023-08-03" />
+  <meta name="citation_publication_date" content="2023-08-03" />
+  <meta property="article:published_time" content="2023-08-03" />
+  <meta name="dc.modified" content="2023-08-03T15:38:01+00:00" />
+  <meta property="article:modified_time" content="2023-08-03T15:38:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/40b446e9c586da49a753313f9e833d11adc06817/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/40b446e9c586da49a753313f9e833d11adc06817/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/40b446e9c586da49a753313f9e833d11adc06817/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/70ac584122fe382020d641a2df7b0a9fd94f632d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/70ac584122fe382020d641a2df7b0a9fd94f632d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/70ac584122fe382020d641a2df7b0a9fd94f632d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/40b446e9c586da49a753313f9e833d11adc06817/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/70ac584122fe382020d641a2df7b0a9fd94f632d/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@40b446e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del August 2, 2023.
+[Sharepoint STEF@70ac584](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del August 3, 2023.
 </em></small>
 
-|    **Versión** del producto 1.40b446e de 02 Aug 2023
+|    **Versión** del producto 1.70ac584 de 03 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 1, PR11. Detalle de los recursos, herramien
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.40b446e del 02 Aug 2023 |
+| Versión        | 1.70ac584 del 03 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -183,9 +183,9 @@ prnombre: "Detalle de los recursos, herramientas, roles, responsabilidades y par
 > 
 >    FNA, Stefanini
 > 
->    02 Aug 2023
+>    03 Aug 2023
 >
->    **Versión** 1.40b446e
+>    **Versión** 1.70ac584
 
 <br>
 
@@ -228,7 +228,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.40b446e** del 02 Aug 2023                       |
+| Versión        | **1.70ac584** del 03 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -366,7 +366,7 @@ Table: Ejemplo de métricas para el trabajo de arquitectura: transición de vers
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.40b446e** del 02 Aug 2023                       |
+| Versión        | **1.70ac584** del 03 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -393,7 +393,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.40b446e** del 02 Aug 2023                       |
+| Versión        | **1.70ac584** del 03 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -459,9 +459,9 @@ prnombre: "Diseño detallado y vistas funcional, despliegue, información, integ
 > 
 >    FNA, Stefanini
 > 
->    02 Aug 2023
+>    03 Aug 2023
 >
->    **Versión** 1.40b446e
+>    **Versión** 1.70ac584
 
 <br>
 
@@ -508,7 +508,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.40b446e** del 02 Aug 2023                         |
+| Versión        | **1.70ac584** del 03 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -567,8 +567,12 @@ Establecer un esquema de integración orientado a mensajes integrado a su vez co
 #### Aumento del rendimiento en el transporte de datos y operaciones
 Proveer una plataforma de datos de alta velocidad que intermedie entre el API Gateway y la Plataforma híbrida de integración, estas dos nuevas características antes descritas que la requieren. Además, esta mejora en el rendimiento viene a propicia mayor desacoplamiento de sistemas de información​, vienen a bajar la latencia de las consultas de información, y como ventaja a otros segmentos de la arquitectura del FNA, beneficia la alimentación a los repositorios analíticos.
 
+#### Conversión de datos a productos. Reestructuración de las entidades de datos de misión
+Implementar una estrategia de datos que permita al FNA gestionar los datos del Crédito y Operaciones del FNA, actualmente cautivos en ERP misional, Cobis, como un activo consumible e independiente. El objeto es gestionar la información hacia el aumento del valor que el FNA obtiene de los datos actuales mediando por la posibilidad de aprovechar las oportunidades de uso y explotación sin incrementar los costos de inversión de tecnología ni los riesgos de desaprovechamiento (ver [Medidas de Efectividad de Costos de Inversión en Arquitectura] en producto 7 de este proyecto). Dentro de las ventajas que esta característica observa están el traducir las necesidades del negocio en requerimientos de datos y de sistemas de información, propiamente dichos, en favor de los procesos de negocio del FNA; allana el terreno de la Arquitectura Empresarial del FNA en cuanto al soporte de decisiones en particular de índole estratégico y operacional; extiende la empresa a otras (B2B) en tanto que estratifica la información que el Fondo Nacional expone a otras empresas --el concepto de producto de dato es afín a las tecnologías actuales.
 
 <br>
+
+
 
 ## Dominio de Datos FNA
 Para la arquitectura SOA objetivo se propone un enfoque conocido como malla de datos. Este paradigma permite pensar en los datos como productos: disponibles y gestionados para su consumo como un producto. La malla de datos introduce cambios organizativos y de procesos que el Fondo Nacional necesitará para gestionar los datos como un activo de capital tangible del negocio.
@@ -599,6 +603,8 @@ mesh es transferir el poder de los datos y su propiedad a las manos de los equip
 **Gobernanza federada**: si de verdad debemos eliminar controles de acceso necesitamos un equilibrio entre las políticas y controles de gobernanza global y la posibilidad de dominio y creación de productos. Esto es lo que llamamos gobernanza federada, y en la práctica es fundamental para garantizar la privacidad, el cumplimiento y la posibilidad de escalar.
 
 <br>
+
+
 
 ## Dominio de Infraestructura FNA
 Para la arquitectura SOA objetivo se propone un enfoque de computación en la nube donde se hace uso de componentes IaaS y PaaS, de infraestructura y plataforma en la nube. Dentro de la oferta actual de componentes se pueden encontrar soluciones que permiten garantizar escalabilidad, disponibilidad, cumplimiento regulatorio y menores tiempos de salida al mercado.
@@ -637,7 +643,7 @@ A continuación resaltamos algunas características de interés respecto de los 
 | Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.40b446e** del 02 Aug 2023                         |
+| Versión        | **1.70ac584** del 03 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -680,7 +686,7 @@ El FNA debe alejarse de los diseños generales que funcionan solamente como una 
 | Palabras clave | SOA, Arquitectura de referencia, características,            |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.40b446e** del 02 Aug 2023                         |
+| Versión        | **1.70ac584** del 03 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
