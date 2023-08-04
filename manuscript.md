@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-04" />
   <meta name="citation_publication_date" content="2023-08-04" />
   <meta property="article:published_time" content="2023-08-04" />
-  <meta name="dc.modified" content="2023-08-04T02:36:41+00:00" />
-  <meta property="article:modified_time" content="2023-08-04T02:36:41+00:00" />
+  <meta name="dc.modified" content="2023-08-04T02:47:01+00:00" />
+  <meta property="article:modified_time" content="2023-08-04T02:47:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/985be46f1b60c0e8740ed9e67945e354072529fc/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/985be46f1b60c0e8740ed9e67945e354072529fc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/985be46f1b60c0e8740ed9e67945e354072529fc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/9ec6146f60f073b78a8a45ade2cc8642400b9aa3/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/9ec6146f60f073b78a8a45ade2cc8642400b9aa3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e1/v/9ec6146f60f073b78a8a45ade2cc8642400b9aa3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/985be46f1b60c0e8740ed9e67945e354072529fc/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e1/v/9ec6146f60f073b78a8a45ade2cc8642400b9aa3/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@985be46](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@9ec6146](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.985be46 de 04 Aug 2023
+|    **Versión** del producto 1.9ec6146 de 04 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 1, PR11. Detalle de los recursos, herramien
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.985be46 del 04 Aug 2023 |
+| Versión        | 1.9ec6146 del 04 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -185,7 +185,7 @@ prnombre: "Detalle de los recursos, herramientas, roles, responsabilidades y par
 > 
 >    04 Aug 2023
 >
->    **Versión** 1.985be46
+>    **Versión** 1.9ec6146
 
 <br>
 
@@ -228,7 +228,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.985be46** del 04 Aug 2023                       |
+| Versión        | **1.9ec6146** del 04 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -366,7 +366,7 @@ Table: Ejemplo de métricas para el trabajo de arquitectura: transición de vers
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.985be46** del 04 Aug 2023                       |
+| Versión        | **1.9ec6146** del 04 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -393,7 +393,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.985be46** del 04 Aug 2023                       |
+| Versión        | **1.9ec6146** del 04 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -461,7 +461,7 @@ prnombre: "Diseño detallado y vistas funcional, despliegue, información, integ
 > 
 >    04 Aug 2023
 >
->    **Versión** 1.985be46
+>    **Versión** 1.9ec6146
 
 <br>
 
@@ -508,7 +508,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, características, dominios, servicios, aplicaciones, datos, |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.985be46** del 04 Aug 2023                         |
+| Versión        | **1.9ec6146** del 04 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1206,7 +1206,7 @@ A continuación resaltamos algunas características de interés respecto de los 
 | Palabras clave | SOA, Arquitectura de referencia, características, implementación, hoja de ruta,  |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.985be46** del 04 Aug 2023                         |
+| Versión        | **1.9ec6146** del 04 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1249,7 +1249,7 @@ El FNA debe alejarse de los diseños generales que funcionan solamente como una 
 | Palabras clave | SOA, Arquitectura de referencia, características,            |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.985be46** del 04 Aug 2023                         |
+| Versión        | **1.9ec6146** del 04 Aug 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1258,31 +1258,29 @@ El FNA debe alejarse de los diseños generales que funcionan solamente como una 
 En cumplimiento con el alcance (y las restricciones de tiempo del proyecto actual), en esta sección desarrollaremos el conjunto de vistas fundamentales al que llamamos arquitecturas de referencia del FNA.
 
 ## Arquitectura de Servicios SOA, Versión 2.0: microservicios y malla de servicios
-Tomando como entrada el contexto del FNA, presentamos una organización de componentes que enfrenta las problemáticas identificadas en diagnósticos anteriores (Fase I). Esto es, la siguiente arquitectura de servicios optimiza las siguientes características en beneficio de la empresa:
+Tomando como entrada el contexto del FNA, presentamos una organización de componentes que enfrenta las problemáticas identificadas en diagnósticos anteriores (Fase I). Esto es, la siguiente arquitectura de servicios optimiza las siguientes características en beneficio particular del FNA:
 
 1. Mejorar la estabilidad, el reintento la tolerancia a fallos y la disponibilidad de servicios SOA y los microservicios del Fondo Nacional mediante el uso de proxy
 1. Modernizar los mecanismos de orquestación de servicios con arreglo en el estilo de arquitectura de solución orientada a servicios y a eventos
 1. Independiza las acciones de escalabilidad, seguridad y monitoreo de servicios, de acuerdo con el estilo de arquitectura de solución orientada a servicios
 1. Persigue el esquema de operación de servicios orientados a la nube
 1. Tiene afinidad con el patrón de malla de servicios (service-mesh), Control Plan – Data Plane en la imagen
+1. Mejorar proceso de diseño y construcción de soluciones orientadas a servicios
+1. Optimizar el proceso de construcción de soluciones orientadas a servicios
+1. Unificar el proceso de construcción y ofrecer un lenguaje común con el negocio y entidades del sector
+1. Mejorar la oferta de servicios analíticos en el segmento del Fondo Nacional del Ahorro
+1. Incrementar el nivel de utilización de la Tecnología SOA del Fondo Nacional del Ahorro
+1. Soportar la ejecución (rediseño) de los procesos de negocio Fondo Nacional del Ahorro, guiados por la arquitectura 2.0
+1. Mejorar el tiempo de puesta en producción
+1. Modernizar las soluciones orientadas a servicios, mediante la gestión de tecnologías de arquitectura 2.0
+1. Gobierno y gestión de la tecnología orientada a servicios por la arquitectura 2.0
+1. Activar las herramientas de monitoreo de los servicios e indicadores de eficacia y desempeño de los procesos en el marco del Gobierno SOA
+1. Articulación y fortalecimiento del equipo de arquitectura del FNA junto a proveedores Institucionalizar oficina de arquitectura
+1. Estructurar equipo de arquitectos SOA, aplicaciones, TI y datos
+1. Monitoreo de los indicadores de eficacia del portafolio servicios del Fondo Nacional del Ahorro
+1. Mejorar indicadores de eficacia y madurez SOA. Indicadores de cobertura, alineación y flexibilidad de negocio
 
-
-* Mejorar proceso de diseño y construcción de soluciones orientadas a servicios
-* Optimizar el proceso de construcción de soluciones orientadas a servicios
-* Unificar el proceso de construcción y ofrecer un lenguaje común con el negocio y entidades del sector
-* Mejorar la oferta de servicios analíticos en el segmento del Fondo Nacional del Ahorro
-* Incrementar el nivel de utilización de la Tecnología SOA del Fondo Nacional del Ahorro
-* Soportar la ejecución (rediseño) de los procesos de negocio Fondo Nacional del Ahorro, guiados por la arquitectura 2.0
-* Mejorar el tiempo de puesta en producción
-* Modernizar las soluciones orientadas a servicios, mediante la gestión de tecnologías de arquitectura 2.0
-* Gobierno y gestión de la tecnología orientada a servicios por la arquitectura 2.0
-* Activar las herramientas de monitoreo de los servicios e indicadores de eficacia y desempeño de los procesos en el marco del Gobierno SOA
-* Articulación y fortalecimiento del equipo de arquitectura del FNA junto a proveedores Institucionalizar oficina de arquitectura
-* Estructurar equipo de arquitectos SOA, aplicaciones, TI y datos
-* Monitoreo de los indicadores de eficacia del portafolio servicios del Fondo Nacional del Ahorro
-* Mejorar indicadores de eficacia y madurez SOA. Indicadores de cobertura, alineación y flexibilidad de negocio
-
-
+<br>
 
 
 <div style="page-break-before: always;"></div>
